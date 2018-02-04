@@ -1,0 +1,75 @@
+.home-banner {
+  color: white;
+  height: 314px;
+  background-size: cover !important;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.home-banner-content h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 30px;
+  font-size: 70px;
+}
+.home-banner-content h2 {
+  margin-top: 0px;
+  padding-bottom: 80px;
+  font-size: 14px;
+  font-style: italic;
+}
+.home-content {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 60px;
+}
+.welcome-container {
+  width: 35vw;
+  display: flex;
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.1));
+  border-radius: 3px;
+}
+.welcome-text {
+  color: black;
+  padding-top: 20px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 30px;
+}
+.welcome-text h3 {
+  font-size: 38px;
+  font-family: 'Kaushan Script', cursive;
+}
+.offers-container {
+  flex-grow: 1;
+  margin-left: 50px;
+}
+.offers-container h4 {
+  font-size: 20px;
+  font-style: bold;
+  font-family: 'Patrick Hand SC', cursive;
+  margin-bottom: 10px;
+}
+.offers-container p {
+  font-size: 16px;
+  font-family: 'Patrick Hand SC', cursive;
+}
+.offer1-container {
+  text-align: center;
+  background-color: #0D0D0D;
+  color: white;
+  padding: 20px 20px 30px 20px;
+  margin-bottom: 50px;
+  border-radius: 3px;
+}
+.offer2-container {
+  text-align: center;
+  background-color: #0D0D0D;
+  color: white;
+  padding: 20px 20px 20px 20px;
+  border-radius: 3px;
+}
+
